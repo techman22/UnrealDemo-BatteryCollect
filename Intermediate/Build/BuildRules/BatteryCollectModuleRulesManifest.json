@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\BatteryCollect\\Source\\BatteryCollect\\BatteryCollect.Build.cs",
+		"E:\\Unreal Projects\\BatteryCollect\\Source\\BatteryCollect.Target.cs",
+		"E:\\Unreal Projects\\BatteryCollect\\Source\\BatteryCollectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

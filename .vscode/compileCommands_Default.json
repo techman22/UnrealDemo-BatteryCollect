@@ -1,0 +1,37 @@
+[
+	{
+		"file": "E:\\\\Unreal Projects\\\\BatteryCollect\\\\Source\\\\BatteryCollect\\\\BatteryCollect.Build.cs",
+		"command": "cl.exe @\"E:\\Unreal Projects\\BatteryCollect\\.vscode\\compileCommands_Default\\BatteryCollect.182.rsp\"",
+		"directory": "F:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Unreal Projects\\\\BatteryCollect\\\\Source\\\\BatteryCollect\\\\BatteryCollect.cpp",
+		"command": "cl.exe @\"E:\\Unreal Projects\\BatteryCollect\\.vscode\\compileCommands_Default\\BatteryCollect.182.rsp\"",
+		"directory": "F:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Unreal Projects\\\\BatteryCollect\\\\Source\\\\BatteryCollect\\\\BatteryCollect.h",
+		"command": "cl.exe @\"E:\\Unreal Projects\\BatteryCollect\\.vscode\\compileCommands_Default\\BatteryCollect.182.rsp\"",
+		"directory": "F:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Unreal Projects\\\\BatteryCollect\\\\Source\\\\BatteryCollect\\\\BatteryCollectCharacter.cpp",
+		"command": "cl.exe @\"E:\\Unreal Projects\\BatteryCollect\\.vscode\\compileCommands_Default\\BatteryCollect.182.rsp\"",
+		"directory": "F:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Unreal Projects\\\\BatteryCollect\\\\Source\\\\BatteryCollect\\\\BatteryCollectCharacter.h",
+		"command": "cl.exe @\"E:\\Unreal Projects\\BatteryCollect\\.vscode\\compileCommands_Default\\BatteryCollect.182.rsp\"",
+		"directory": "F:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Unreal Projects\\\\BatteryCollect\\\\Source\\\\BatteryCollect\\\\BatteryCollectGameMode.cpp",
+		"command": "cl.exe @\"E:\\Unreal Projects\\BatteryCollect\\.vscode\\compileCommands_Default\\BatteryCollect.182.rsp\"",
+		"directory": "F:\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\Unreal Projects\\\\BatteryCollect\\\\Source\\\\BatteryCollect\\\\BatteryCollectGameMode.h",
+		"command": "cl.exe @\"E:\\Unreal Projects\\BatteryCollect\\.vscode\\compileCommands_Default\\BatteryCollect.182.rsp\"",
+		"directory": "F:\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]

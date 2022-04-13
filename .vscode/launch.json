@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "BatteryCollect (Debug)",
+			"request": "launch",
+			"preLaunchTask": "BatteryCollect Win64 Debug Build",
+			"program": "E:\\Unreal Projects\\BatteryCollect\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "F:\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BatteryCollect (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "BatteryCollect Win64 DebugGame Build",
+			"program": "E:\\Unreal Projects\\BatteryCollect\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "F:\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BatteryCollect (Development)",
+			"request": "launch",
+			"preLaunchTask": "BatteryCollect Win64 Development Build",
+			"program": "E:\\Unreal Projects\\BatteryCollect\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "F:\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BatteryCollect (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "BatteryCollect Win64 Shipping Build",
+			"program": "E:\\Unreal Projects\\BatteryCollect\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "F:\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BatteryCollect (Test)",
+			"request": "launch",
+			"preLaunchTask": "BatteryCollect Win64 Test Build",
+			"program": "E:\\Unreal Projects\\BatteryCollect\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "F:\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BatteryCollectEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "BatteryCollectEditor Win64 Debug Build",
+			"program": "F:\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"E:\\Unreal Projects\\BatteryCollect\\BatteryCollect.uproject"
+			],
+			"cwd": "F:\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BatteryCollectEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "BatteryCollectEditor Win64 DebugGame Build",
+			"program": "F:\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"E:\\Unreal Projects\\BatteryCollect\\BatteryCollect.uproject"
+			],
+			"cwd": "F:\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BatteryCollectEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "BatteryCollectEditor Win64 Development Build",
+			"program": "F:\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"E:\\Unreal Projects\\BatteryCollect\\BatteryCollect.uproject"
+			],
+			"cwd": "F:\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "F:\\Epic Games\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=E:\\Unreal Projects\\BatteryCollect\\BatteryCollect.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "F:\\Epic Games\\UE_4.26"
+		}
+	]
+}

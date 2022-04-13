@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "BatteryCollectEditor Editor Win64 Development (BatteryCollect)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\Unreal Projects\\BatteryCollect\\.vscode\\compileCommands_BatteryCollect.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\Unreal Projects\\BatteryCollect\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

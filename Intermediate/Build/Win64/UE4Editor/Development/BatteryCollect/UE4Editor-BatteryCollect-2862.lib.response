@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BatteryCollect-2862.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\BatteryCollectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\BatteryCollect.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\BatteryCollectCharacter.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\BatteryCollectGameMode.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\BatteryPickup.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\HazardPickup.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\Pickup.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\SpawnVolume.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\BatteryCollect.init.gen.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\BatteryCollectCharacter.gen.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\BatteryCollectGameMode.gen.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\BatteryPickup.gen.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\HazardPickup.gen.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\Pickup.gen.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\SpawnVolume.gen.cpp.obj"
+"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\Default.rc2.res"
+/OUT:"E:\Unreal Projects\BatteryCollect\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollect\UE4Editor-BatteryCollect-2862.lib"
+/INCLUDE:IMPLEMENT_MODULE_BatteryCollect
